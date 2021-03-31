@@ -1,0 +1,45 @@
+cnn
+Training Dataset size : 89802
+
+Validation Dataset size : 4989
+
+Test Dataset size : 4990
+
+[TEST]: 100%|##########################################################| 20/20 [00:03<00:00,  6.00it/s, avg_test_acc=0.7928] 
+Test dataset size 4990
+Test accuracy 79.283234 %
+plotting confusion matrix...
+[1 1 0 0 0 1 1 1 0 0] [1 1 0 0 0 1 1 1 0 0]
+[[1998  468]
+ [ 570 1954]]
+
+
+
+lstm
+
+Training Dataset size : 89802
+
+Validation Dataset size : 4989
+
+Test Dataset size : 4990
+
+[TEST]: 100%|##########################################################| 20/20 [00:36<00:00,  1.82s/it, avg_test_acc=0.8259] 
+Test dataset size 4990
+Test accuracy 82.590218 %
+plotting confusion matrix...
+[1 1 0 1 0 1 1 1 0 0] [1 1 0 0 0 1 1 1 0 0]
+[[1999  467]
+ [ 412 2112]]
+Training Dataset size : 89802
+
+Validation Dataset size : 4989
+
+Test Dataset size : 4990
+
+[TEST]: 100%|##########################################################| 20/20 [00:38<00:00,  1.91s/it, avg_test_acc=0.8259] 
+Test dataset size 4990
+Test accuracy 82.590218 %
+plotting confusion matrix...
+[1 1 0 1 0 1 1 1 0 0] [1 1 0 0 0 1 1 1 0 0]
+[[1999  467]
+ [ 412 2112]]
