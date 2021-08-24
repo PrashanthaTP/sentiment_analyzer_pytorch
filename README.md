@@ -15,6 +15,12 @@ Sentiment Analysis of Tweets using Neural Networks with Pytorch
 - Final accuracy : 82.157433 %
 - [Report](docs/Sentiment_Analysis_Report.pdf)
 
+### Scripts
+
+- Preprocessing : [ setup_dataset.py ](main/setup_dataset.py)
+- Embedding Training : [ train_embedding.py ](main/train_embedding.py)
+- Hybrid Model Training : [ train_hybrid.py ](main/train_hybrid.py)
+
 ## #Architectures :
 
 ### CNN based Model
@@ -37,7 +43,7 @@ Sentiment Analysis of Tweets using Neural Networks with Pytorch
 - LSTM based model : 82.5%
 - Hybrid Model : 82.15%
 
-### Confusion Matrics
+### Confusion Matrices
 
 _Note : Diagonal dominance is preferred_
 
