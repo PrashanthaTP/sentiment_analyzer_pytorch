@@ -9,6 +9,8 @@
 
 This repo contains Python implementation of Sentiment Analysis of Tweets using Neural Networks with Pytorch.
 
+## Overview
+
 - Framework used : Pytorch
 - Architectures : LSTM,CNN(2D), and a hybrid of these two
 - Dataset : [Sentiment140](http://help.sentiment140.com/for-students/)
