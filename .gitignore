@@ -8,9 +8,8 @@ trained/
 *.pt
 *.csv
 *.png
+!docs/*.png
 v1/
-
-
 ##############################################
 
 # Byte-compiled / optimized / DLL files
