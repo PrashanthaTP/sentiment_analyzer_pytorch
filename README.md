@@ -1,9 +1,10 @@
 # Tweet Sentiment Classification
 
 <!--[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)-->
+<!-- for badges visit : https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
 ---
 
@@ -46,8 +47,6 @@ This repo contains Python implementation of Sentiment Analysis of Tweets using N
 - Hybrid Model : 82.15%
 
 ### Confusion Matrices
-
-_Note : Diagonal dominance is preferred_
 
 - For cnn based model
 
