@@ -66,7 +66,7 @@ This repo contains Python implementation of Sentiment Analysis of Tweets using N
 
 - Dataset
 
-```
+```bibtex
 @ONLINE {Sentiment140,
     author = "Go, Alec and Bhayani, Richa and Huang, Lei",
     title  = "Twitter Sentiment Classification using Distant Supervision",
